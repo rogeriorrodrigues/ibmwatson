@@ -27,7 +27,7 @@ namespace jundev
         {
             
 
-            _visualRecognition.SetCredential("e73ace2dc2f0bed16c7fd0d3175237ce88f9fba9");
+            _visualRecognition.SetCredential("sua-chave_watson");
 
             var result =  _visualRecognition.Classify(imagem);
 
